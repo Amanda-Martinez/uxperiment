@@ -1,0 +1,21 @@
+---
+title: Label OPQUAST Website on Roquefort Société
+subtitle: Roquefort Société
+layout: default
+modal-id: 6
+img: societe-large.jpg
+thumbnail: societe-thumbnail.jpg
+alt: ""
+project-date: 2014
+client: Roquefort Société
+category: projects
+description: Audit and coordination on the labeling process OPQUAST Website on the website www.roquefort-societe.com.
+---
+
+### Missions
+
+- Repository quality audit OPQUAST Website 2.2
+- Analysis the results of the audit and implementation optimizations on the user stories' process
+- Monitoring and coordination of optimizations
+- OPQUAST Good customer practice training on web quality
+- Quality management over 2 years

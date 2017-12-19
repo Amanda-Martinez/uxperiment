@@ -1,0 +1,25 @@
+---
+title: User centered approach on an e-commerce application
+subtitle: Exaprint
+layout: default
+modal-id: 4
+img: exaprint-large.jpg
+thumbnail: exaprint-thumbnail.jpg
+alt: ""
+project-date: 2015
+client: Exaprint
+category: projects
+description: User-centered support approach on the realization of a B2B and B2C e-commerce hybrid application.
+
+---
+
+### Missions
+
+- User interviews conduct (done internally, as well as towards clients and prospects)
+- User research
+- Definition of personas resulting from the secondary research
+- A focus group animation with clients and prospects
+- Implementation of a product roadmap
+- Design of wireframes and user flow
+- Follow-up on an hybrid application development (Cordova) integrating the management of a product catalog
+- Multi-device testing

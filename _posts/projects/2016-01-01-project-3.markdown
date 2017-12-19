@@ -1,0 +1,26 @@
+---
+title: User research and product analysis
+subtitle: Bibelo
+layout: default
+modal-id: 5
+date: 2014-07-16
+img: bibelo-large.jpg
+thumbnail: bibelo-thumbnail.jpg
+alt: ""
+project-date: 2016
+client: Bibelo
+category: projects
+description: User research process to check if the product designed is the right product that meets the expectations of users after setting up an MVP.
+
+---
+
+### Missions
+
+- Product strategy (Running Lean methodology, lean canvas)
+- User research
+- User Interviews
+- Personas
+- Wireframes
+- Customer journey on the checkout process
+- Focus group animation to analyse the product's positioning and pretest wireframes
+- A/ B Testing

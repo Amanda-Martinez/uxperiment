@@ -1,0 +1,22 @@
+---
+title: Establishment of an international loyalty program
+subtitle: Pink Lady® Europe
+layout: default
+modal-id: 2
+img: pinklady-large.jpg
+thumbnail: pinklady-thumbnail.jpg
+alt: ""
+project-date: 2017
+client: Pink Lady®
+category: projects
+description: Follow-up of the loyalty program with the marketing of billions of unique codes applicated on the Pink Lady® and PinKids® apple trays as well as on apples sold in bulk internationally (15 European countries). Implementation of the program in 2013 and several releases until 2017.
+
+---
+
+### Missions
+
+- Implementation of business rules (user stories)
+- Generation and traceability of unique codes (technical and security aspects)
+- Contract with an international promotional insurance
+- Establishment of legal cover
+- Statistical and behavioral data analyzes

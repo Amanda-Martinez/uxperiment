@@ -1,0 +1,58 @@
+---
+layout: style
+---
+
+.navbar-default {
+  background-color: rgba(34, 34, 34, 0.45);
+}
+
+.timeline div.timeline-image {
+  background-color: white;
+}
+
+.section-legal {
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-legal h2 {
+  text-align: center;
+}
+
+.section-legal p {
+  color: #222;
+}
+
+.header-legal {
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  align-items: center;
+}
+
+footer > a {
+  right: 80px;
+  position: absolute;
+}
+
+footer ul.quicklinks {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  text-transform: none;
+  text-align: center;
+  font-family: {{ site.data.template.font.secondary }};
+  line-height: 40px;
+}
+
+ul.social-buttons {
+    margin-bottom: 0;
+}

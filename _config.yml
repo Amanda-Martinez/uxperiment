@@ -1,0 +1,15 @@
+baseurl: ""
+title: "UXperiment | Amanda Martinez"
+description: "French blog about product management, user experience and web quality."
+
+# Site settings
+email: amandamartinez1988@gmail.com
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/martinezamandaa
+  - title: linkedin
+    url: https://www.linkedin.com/in/amanda-martinez-b6287889/
+
+# Build settings
+markdown: kramdown

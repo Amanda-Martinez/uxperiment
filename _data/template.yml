@@ -1,0 +1,12 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: E12C4C
+  # hover
+  secondary: FF4055
+  secondary-dark: E12C4C
+  muted: 777
+
+# Font Families
+font:
+  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Droid serif", "Helvetica Neue", Helvetica,Arial,sans-serif'

@@ -1,0 +1,22 @@
+---
+title: Wonder PO Schools - Training Product Owners
+subtitle: Wonderful
+layout: default
+modal-id: 3
+img: wonderful-large.jpg
+thumbnail: wonderful-thumbnail.jpg
+alt: ""
+project-date: 2017
+client: Wonderful
+category: projects
+description: Internal project of upgrade skills and Product Owners's training. Facilitation of weekly workshops on agile methodologies and UX design. Facilitation of many practical workshops on use case. Web quality training and weekly training towards the OPQUAST quality Web certification. Oversight on the exam and 10 OPQUAST certified people.
+---
+
+### Missions
+
+- Definition of the Product Owners's training plan
+- Organization and facilitation of UX workshops & product box
+- Support team PO on use case to facilitate the rise in skills
+- Individual interviews
+- Web quality training with weekly training
+- Oversight exams: OPQUAST Web quality certification

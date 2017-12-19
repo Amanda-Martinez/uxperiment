@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UXperiment | Amanda Martinez</title>
+    <description>French blog about product management, user experience and web quality.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 18 Dec 2017 21:05:52 -0500</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 21:05:52 -0500</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Web accessibility audit and coordination</title>
+        <description>&lt;h3 id=&quot;missions&quot;&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Definition of the product vision and the product roadmap&lt;/li&gt;
+  &lt;li&gt;Definition of personas based on a secondary school basis&lt;/li&gt;
+  &lt;li&gt;Writing user stories including good quality web-based on OPQUAST referential and RGAA3 silver level (AA)&lt;/li&gt;
+  &lt;li&gt;Prototyping the interface with a first mobile approach&lt;/li&gt;
+  &lt;li&gt;Monitoring and coordination (Scrum method)&lt;/li&gt;
+  &lt;li&gt;Functional tests and quality assurance throughout the iterations&lt;/li&gt;
+  &lt;li&gt;Maintenance of the platform according to prioritized user feedbacks&lt;/li&gt;
+  &lt;li&gt;Accessibility audit of the site based on the RGAA3 silver standard (AA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/projects/2017/04/01/project-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/04/01/project-1.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Establishment of an international loyalty program</title>
+        <description>&lt;h3 id=&quot;missions&quot;&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Implementation of business rules (user stories)&lt;/li&gt;
+  &lt;li&gt;Generation and traceability of unique codes (technical and security aspects)&lt;/li&gt;
+  &lt;li&gt;Contract with an international promotional insurance&lt;/li&gt;
+  &lt;li&gt;Establishment of legal cover&lt;/li&gt;
+  &lt;li&gt;Statistical and behavioral data analyzes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2017/02/01/project-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/02/01/project-2.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Wonder PO Schools - Training Product Owners</title>
+        <description>&lt;h3 id=&quot;missions&quot;&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Definition of the Product Owners’s training plan&lt;/li&gt;
+  &lt;li&gt;Organization and facilitation of UX workshops &amp;amp; product box&lt;/li&gt;
+  &lt;li&gt;Support team PO on use case to facilitate the rise in skills&lt;/li&gt;
+  &lt;li&gt;Individual interviews&lt;/li&gt;
+  &lt;li&gt;Web quality training with weekly training&lt;/li&gt;
+  &lt;li&gt;Oversight exams: OPQUAST Web quality certification&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2017/01/01/project-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/01/01/project-6.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>User centered approach on an e-commerce application</title>
+        <description>&lt;h3 id=&quot;missions&quot;&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;User interviews conduct (done internally, as well as towards clients and prospects)&lt;/li&gt;
+  &lt;li&gt;User research&lt;/li&gt;
+  &lt;li&gt;Definition of personas resulting from the secondary research&lt;/li&gt;
+  &lt;li&gt;A focus group animation with clients and prospects&lt;/li&gt;
+  &lt;li&gt;Implementation of a product roadmap&lt;/li&gt;
+  &lt;li&gt;Design of wireframes and user flow&lt;/li&gt;
+  &lt;li&gt;Follow-up on an hybrid application development (Cordova) integrating the management of a product catalog&lt;/li&gt;
+  &lt;li&gt;Multi-device testing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2015/01/01/project-4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2015/01/01/project-4.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>User research and product analysis</title>
+        <description>&lt;h3 id=&quot;missions&quot;&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Product strategy (Running Lean methodology, lean canvas)&lt;/li&gt;
+  &lt;li&gt;User research&lt;/li&gt;
+  &lt;li&gt;User Interviews&lt;/li&gt;
+  &lt;li&gt;Personas&lt;/li&gt;
+  &lt;li&gt;Wireframes&lt;/li&gt;
+  &lt;li&gt;Customer journey on the checkout process&lt;/li&gt;
+  &lt;li&gt;Focus group animation to analyse the product’s positioning and pretest wireframes&lt;/li&gt;
+  &lt;li&gt;A/ B Testing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/projects/2014/07/16/project-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2014/07/16/project-3.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Label OPQUAST Website on Roquefort Société</title>
+        <description>&lt;h3 id=&quot;missions&quot;&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Repository quality audit OPQUAST Website 2.2&lt;/li&gt;
+  &lt;li&gt;Analysis the results of the audit and implementation optimizations on the user stories’ process&lt;/li&gt;
+  &lt;li&gt;Monitoring and coordination of optimizations&lt;/li&gt;
+  &lt;li&gt;OPQUAST Good customer practice training on web quality&lt;/li&gt;
+  &lt;li&gt;Quality management over 2 years&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2014/01/01/project-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2014/01/01/project-5.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+  </channel>
+</rss>

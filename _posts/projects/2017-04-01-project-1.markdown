@@ -1,0 +1,26 @@
+---
+title: Web accessibility audit and coordination
+subtitle: Fédération des Aveugles de France
+layout: default
+modal-id: 1
+img: aveuglesdefrance-large.jpg
+thumbnail: aveuglesdefrance-thumbnail.jpg
+alt: ""
+link: http://www.aveuglesdefrance.org
+project-date: 2017
+client: Fédération des Aveugles de France
+category: projects
+description: Supporting approach on the production of the site and accessibility audit on the basis of the RGAA3 level AA
+
+---
+
+### Missions
+
+- Definition of the product vision and the product roadmap
+- Definition of personas based on a secondary school basis
+- Writing user stories including good quality web-based on OPQUAST referential and RGAA3 silver level (AA)
+- Prototyping the interface with a first mobile approach
+- Monitoring and coordination (Scrum method)
+- Functional tests and quality assurance throughout the iterations
+- Maintenance of the platform according to prioritized user feedbacks
+- Accessibility audit of the site based on the RGAA3 silver standard (AA)
